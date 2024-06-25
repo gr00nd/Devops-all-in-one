@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/CyberForgeX/Devops-all-in-one#readme",
   "dependencies": {
-    "electron": "^24.1.2",
+    "electron": "^27.3.3",
     "is-electron": "^2.2.2",
     "mongodb": "^5.2.0",
     "nestts": "^0.0.1",
